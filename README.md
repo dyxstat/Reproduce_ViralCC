@@ -1,7 +1,7 @@
 # Instruction of reproducing results in ViralCC paper
 We take the cow fecal datasets for example. The other two datasets were processed following the same procedure.
 
-Scripts to process the intermediate data and plot figures are available in the folder [Script](https://github.com/dyxstat/Reproduce_ViralCC/tree/main/Scripts).
+Scripts to process the intermediate data and plot figures are available in the folder [Scripts](https://github.com/dyxstat/Reproduce_ViralCC/tree/main/Scripts).
 
 **Version of softwares exploited in the analyses**
 ```
