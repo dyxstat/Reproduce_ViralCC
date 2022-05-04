@@ -3,7 +3,7 @@ We take the cow fecal datasets for example. The other two datasets were processe
 
 Scripts to process the intermediate data and plot figures are available in the folder [Scripts](https://github.com/dyxstat/Reproduce_ViralCC/tree/main/Scripts).
 
-Source data of Figure 2 and 3 in the main text and Figure S1 in the supplementary materials are provided in the folder [Source data](https://github.com/dyxstat/Reproduce_ViralCC/tree/main/Source%20Data).
+Source data of Figure 2 and 3 in the main text and Figure S1 in the supplementary materials are provided in the folder [Source Data](https://github.com/dyxstat/Reproduce_ViralCC/tree/main/Source%20Data).
 
 **Version of softwares exploited in the analyses**
 ```
