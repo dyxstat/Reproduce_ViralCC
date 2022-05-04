@@ -3,21 +3,23 @@ We take the cow fecal datasets for example. The other two datasets were processe
 
 Scripts to process the intermediate data and plot figures are available in the folder [Scripts](https://github.com/dyxstat/Reproduce_ViralCC/tree/main/Scripts).
 
+Source data of Figure 2 and 3 in the main text and Figure S1 in the supplementary materials are provided in the folder [Source data]()
+
 **Version of softwares exploited in the analyses**
 ```
 fastq_dump from Sratoolkit: v2.10.8
 
 bbduk.sh and clumpify.sh from BBTools suite: v37.25
 
-MEGAHIT: v1.2.9
+megahit from MEGAHIT: v1.2.9
 
-BWA MEM: v0.7.17
+bwa from BWA MEM: v0.7.17
 
-Samtools: v1.15.1
+samtools from Samtools: v1.15.1
 
 wrapper_phage_contigs_sorter_iPlant.pl from VirSorter: v1.0.6
 
-CheckV: 0.7.0
+checkv from CheckV: 0.7.0
 ```
 
 **Step 1 Download and preprocess the raw data**
