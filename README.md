@@ -7,19 +7,19 @@ Source data of Figure 2 and 3 in the main text and Figure S1 in the supplementar
 
 **Version of softwares exploited in the analyses**
 ```
-fastq_dump from Sratoolkit: v2.10.8
+fastq_dump command from Sratoolkit: v2.10.8
 
-bbduk.sh and clumpify.sh from BBTools suite: v37.25
+bbduk.sh and clumpify.sh command from BBTools suite: v37.25
 
-megahit from MEGAHIT: v1.2.9
+megahit command from MEGAHIT: v1.2.9
 
-bwa from BWA MEM: v0.7.17
+bwa command from BWA MEM: v0.7.17
 
-samtools from Samtools: v1.15.1
+samtools command from Samtools: v1.15.1
 
-wrapper_phage_contigs_sorter_iPlant.pl from VirSorter: v1.0.6
+wrapper_phage_contigs_sorter_iPlant.pl command from VirSorter: v1.0.6
 
-checkv from CheckV: 0.7.0
+checkv command from CheckV: 0.7.0
 ```
 
 **Step 1 Download and preprocess the raw data**
