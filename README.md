@@ -23,6 +23,7 @@ checkv command from CheckV: 0.7.0
 ```
 
 **Step 1 Download and preprocess the raw data**
+
 Note: NCBI may update its links for downloading the database. Please check the latest link at [NCBI](https://www.ncbi.nlm.nih.gov/) if you meet the download error.
 ```
 wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-run-13/ERR2282092/ERR2282092.1
